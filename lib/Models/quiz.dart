@@ -1,0 +1,3 @@
+class Quiz {
+  String quizId;
+}
